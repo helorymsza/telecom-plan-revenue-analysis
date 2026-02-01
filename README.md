@@ -51,7 +51,7 @@ The project uses the following datasets:
 
 ```bash
 git clone https://github.com/helorymsza/telecom-plan-revenue-analysis.git
-cd telecom-plan-revenue-analysis
+cd telecom-plan-revenue-analysis```
 
 2. Create a virtual environment:
 
@@ -74,4 +74,5 @@ pandas – Data manipulation
 numpy – Numerical calculations
 matplotlib & seaborn – Data visualization
 scipy.stats – Statistical testing
+
 
