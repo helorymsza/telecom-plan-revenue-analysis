@@ -52,18 +52,5 @@ The project uses the following datasets:
 ```bash
 git clone https://github.com/helorymsza/telecom-plan-revenue-analysis.git
 cd telecom-plan-revenue-analysis
-(Optional) Create and activate a virtual environment:
-python3 -m venv venv
-source venv/bin/activate  # macOS/Linux
-venv\Scripts\activate     # Windows
-Install dependencies:
-pip install -r requirements.txt
-Launch Jupyter Notebook:
-jupyter notebook
-Open analysis.ipynb and run all cells to explore the analysis.
-📊 Libraries Used
-pandas – Data manipulation
-numpy – Numerical calculations
-matplotlib & seaborn – Data visualization
-scipy.stats – Statistical testing
+
 
