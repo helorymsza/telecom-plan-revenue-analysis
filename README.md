@@ -45,34 +45,19 @@ The project uses the following datasets:
 
 ---
 
-## How to Run Locally
+## 🚀 How to Run Locally
 
-1. Clone the repository:
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/helorymsza/telecom-plan-revenue-analysis.git
-cd telecom-plan-revenue-analysis```
-
-2. Create a virtual environment:
-
+cd telecom-plan-revenue-analysis
+(Optional) Create a virtual environment:
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
-
-3. Install dependencies:
-
+Install dependencies:
 pip install -r requirements.txt
-
-4. Launch Jupyter Notebook:
-
+Launch Jupyter Notebook:
 jupyter notebook
-
-5. Open analysis.ipynb and run all cells to explore the analysis.
-
-📊 Libraries Used
-pandas – Data manipulation
-numpy – Numerical calculations
-matplotlib & seaborn – Data visualization
-scipy.stats – Statistical testing
-
-
+Open analysis.ipynb and run all cells to explore the analysis.
